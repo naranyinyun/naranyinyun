@@ -1,3 +1,7 @@
+## Intro
+![intro](20230905_230708_0001.png)  
+![intro](20230905_230708_0000.png)  
+
 ## GitHub info
 ![GitHub Info](https://github-readme-stats.vercel.app/api?username=naranyinyun)   
 ## Top Languages
