@@ -3,7 +3,9 @@
 ## Intro
 ![intro](20230909_235016_0001.png)  
 ![intro](20230909_235016_0000.png)  
-
+>言われる一人でも  
+>平気そうだと  
+>--Tachibana Arius 「In fact」
 ## GitHub info
 ![GitHub Info](https://github-readme-stats.vercel.app/api?username=naranyinyun)   
 ## Top Languages
