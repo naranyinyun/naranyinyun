@@ -1,5 +1,5 @@
 ![Banner](20231009_232759_0000.png)  
-I'm a translator, if your project need Chinese or English translate, just mention me , It's a pleasure to me for help others.
+I'm a translator. If you require Chinese or English translation for your project, feel free to mention me. It would be my pleasure to help others.
 
 ## Intro
 ![intro](20230909_235016_0001.png)  
