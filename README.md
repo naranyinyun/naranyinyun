@@ -1,6 +1,8 @@
 ![Banner](20231009_232759_0000.png)  
-I'm a translator. If you require Chinese or English translation for your project, feel free to mention me. It would be my pleasure to help others.
-
+- A senior high student in China
+- Using language is that Chinese and English, learning French and Japanese
+- Not a professional translator, but have the ability to translate most documents
+- Great passionate in language and technology, also a poet of morden Chinese poetry (in Chinese, this is called '新诗' or '现代诗').
 ## Intro
 ![intro](20230909_235016_0001.png)  
 ![intro](20230909_235016_0000.png)  
