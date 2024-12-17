@@ -3,6 +3,7 @@
 - Native speaker in Chinese. Fluent in English.
 - While not a professional translator, I have strong experience in translating various documents.
 - Passionate about language and technology, and also a poet of modern Chinese poetry.
+- Learning Dart and Flutter with FP.
 ## Intro
 ![intro](20230909_235016_0001.png)  
 ![intro](20230909_235016_0000.png)  
